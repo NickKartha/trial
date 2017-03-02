@@ -2,10 +2,12 @@
 
 #include<stdio.h>
 
-void chipmunk(
+void chipmunk(){
  printf("I am a Chipmunk!");
 }
 
 void main(){
  chipmunk();
 }
+
+//end of code
